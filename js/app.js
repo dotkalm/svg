@@ -22,7 +22,7 @@ class Line {
             
         // }
         const peakTwo = setInterval(() => {
-            this.peak2-= .4
+            this.peak2-= .04
             this.peak3+= .05;
             this.peak4-= .024;
             this.peak5+= .2
